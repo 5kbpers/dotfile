@@ -97,6 +97,9 @@ endif
 " line number
 set number
 
+" avoid warning
+silent! py3 pass
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Key mapping
 
